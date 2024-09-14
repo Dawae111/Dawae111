@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dawae111
-- 👀 I’m interested in web project ot any machine learning projects.
+- 👀 I’m interested in web or machine learning projects.
 - 🌱 I’m currently learning in ece program in university of toronto.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me dawae.huang@mail.utoronto.ca
