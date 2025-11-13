@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a AWS-based Job Recommendation System from Learnwise Solution Inc.<br>👯 I’m looking to collaborate on impactful software or machine learning projects.<br>🤝 I’m looking for Software/ML jobs :)<br>🌱 I’m currently a 3rd year student studying Computer Engineering at the University of Toronto<br>💬 Willing to discuss any potential opportunities
+🔭 I’m currently working on a AWS-based Job Recommendation System from Learnwise Solution Inc.<br>👯 I’m looking to collaborate on impactful software or machine learning projects.<br>🤝 I’m looking for Software/ML jobs :)<br>🌱 Studying Computer Engineering at the University of Toronto<br>💬 Willing to discuss any potential opportunities
 
 
 ## 🌐 Socials:
@@ -18,12 +18,6 @@ ML: ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-
 Tools: ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)  ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)  ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 CI/CD: ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-
-### ✍️ Your Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) 
-
----
-[![](https://visitcount.itsvg.in/api?id=Dawae111&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!---
