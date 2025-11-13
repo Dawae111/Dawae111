@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a AWS-based Job Recommendation System from Learnwise Solution Inc.<br>👯 I’m looking to collaborate on impactful software or machine learning projects.<br>🤝 I’m looking for Software/ML jobs :)<br>🌱 I’m currently a 3rd year student studying Computer Engineering at the University of Toronto<br>💬 Willing to discuss any potential opportunities <br>⚡ Fun fact I'm Argentinian.
+🔭 I’m currently working on a AWS-based Job Recommendation System from Learnwise Solution Inc.<br>👯 I’m looking to collaborate on impactful software or machine learning projects.<br>🤝 I’m looking for Software/ML jobs :)<br>🌱 I’m currently a 3rd year student studying Computer Engineering at the University of Toronto<br>💬 Willing to discuss any potential opportunities
 
 
 ## 🌐 Socials:
