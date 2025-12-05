@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a AWS-based Job Recommendation System from Learnwise Solution Inc.<br>👯 I’m looking to collaborate on impactful software or machine learning projects.<br>🤝 I’m looking for Software/ML jobs :)<br>🌱 Studying Computer Engineering at the University of Toronto<br>💬 Willing to discuss any potential opportunities
+🔭 I’m currently researching in Noah's Ark Lab.<br>👯 I’m looking to collaborate on impactful machine learning or software projects.<br>🤝 I’m looking for ML/Software jobs :)<br>🌱 Studying Computer Engineering at the University of Toronto<br>💬 Willing to discuss any potential opportunities
 
 
 ## 🌐 Socials:
