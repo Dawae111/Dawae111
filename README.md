@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🌱 Studying Computer Engineering at the University of Toronto <br>🤝 I’m looking for PHD / ML Jobs :) 💬 Willing to discuss any potential opportunities
+<br>🌱 Studying Computer Engineering at the University of Toronto <br>🤝 I’m looking for PHD / ML Jobs :) <br>💬 Willing to discuss any potential opportunities
 
 
 ## 🌐 Socials:
