@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently researching in Huawei Noah's Ark Lab.<br>👯 I’m looking to collaborate on impactful machine learning projects.<br>🤝 I’m looking for PHD / ML Jobs :)<br>🌱 Studying Computer Engineering at the University of Toronto<br>💬 Willing to discuss any potential opportunities
+<br>🌱 Studying Computer Engineering at the University of Toronto <br>🤝 I’m looking for PHD / ML Jobs :) 💬 Willing to discuss any potential opportunities
 
 
 ## 🌐 Socials:
